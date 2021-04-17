@@ -3,7 +3,7 @@ from io import BytesIO
 from PIL import Image
 import os, re
 
-TOKEN = os.environ.get("BOT_TOKEN",None)
+TOKEN ="1654509484:AAFIwjgJOF2Jn6E-W-H_BWMZUmgSWIcgWEo"
 bot = TeleBot(TOKEN)
 
 list_image = {}
